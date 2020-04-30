@@ -16,7 +16,7 @@ root.setChildrenValues([5,6,7])
 root.child[0].createChildren(2)
 root.child[0].setChildrenValues([1,2])
 root.child[1].createChildren(2)
-root.child[1].setChildrenValues([10,11])
+root.child[1].setChildrenValues([13,15])
 
  # print some values in the tree
 #print(root.data[0])

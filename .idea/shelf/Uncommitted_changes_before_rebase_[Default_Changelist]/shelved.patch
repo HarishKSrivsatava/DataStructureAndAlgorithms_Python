@@ -1,0 +1,94 @@
+Index: Tree/PreorderTraversal.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Tree/PreorderTraversal.py	(revision d8b785de0968833ae253f15451aeb6e7101ff281)
++++ Tree/PreorderTraversal.py	(date 1588327047042)
+@@ -1,0 +1,38 @@
++# Binary Tree
++
++class Node:
++    def __init__(self, data):
++        self.left = None
++        self.right = None
++        self.data = data
++
++    def insert(self, data):
++        if self.data:
++            if data < self.data:
++                if self.left is None:
++                    self.left = Node(data)
++                else:
++                    self.left.insert(data)
++            elif data > self.data:
++                if self.right is None:
++                    self.right = Node(data)
++                else:
++                    self.right.insert(data)
++        else:
++            self.data = data
++
++# Print the tree
++    def PrintTree(self):
++        if self.left:
++            self.left.PrintTree()
++        print( self.data),
++        if self.right:
++            self.right.PrintTree()
++
++# Use the insert method to add nodes
++root = Node(12)
++root.insert(6)
++root.insert(14)
++root.insert(3)
++
++root.PrintTree()
+\ No newline at end of file
+Index: Tree/BinaryTree.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Tree/BinaryTree.py	(date 1588327083972)
++++ Tree/BinaryTree.py	(date 1588327083972)
+@@ -0,0 +1,38 @@
++# Binary Tree
++
++class Node:
++    def __init__(self, data):
++        self.left = None
++        self.right = None
++        self.data = data
++
++    def insert(self, data):
++        if self.data:
++            if data < self.data:
++                if self.left is None:
++                    self.left = Node(data)
++                else:
++                    self.left.insert(data)
++            elif data > self.data:
++                if self.right is None:
++                    self.right = Node(data)
++                else:
++                    self.right.insert(data)
++        else:
++            self.data = data
++
++# Print the tree
++    def PrintTree(self):
++        if self.left:
++            self.left.PrintTree()
++        print( self.data),
++        if self.right:
++            self.right.PrintTree()
++
++# Use the insert method to add nodes
++root = Node(12)
++root.insert(6)
++root.insert(14)
++root.insert(3)
++
++root.PrintTree()
+\ No newline at end of file

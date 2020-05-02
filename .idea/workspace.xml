@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="677c71d2-f0e2-4c5c-983a-4ff2a96e5953" name="Default Changelist" comment="Binary Tree">
+      <change afterPath="$PROJECT_DIR$/Array/2DArrayDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/ArrayCyclicRotation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/ArrayRotation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/RearrangeArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary/DictionaryDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary/DictionaryDemo.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="d8b785de0968833ae253f15451aeb6e7101ff281" />
+  </component>
+  <component name="ProjectId" id="1b1dTzrQITP6KPjJDZ6PEMaZwBK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/helloWorld.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.RearrangeArray">
+    <configuration name="2DArrayDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructureAndAlgorithms_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Harish Kumar\PycharmProjects\HelloWorld\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/2DArrayDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ArrayCyclicRotation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructureAndAlgorithms_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Harish Kumar\PycharmProjects\HelloWorld\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/ArrayCyclicRotation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ArrayRotation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructureAndAlgorithms_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Harish Kumar\PycharmProjects\HelloWorld\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/ArrayRotation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DictionaryDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructureAndAlgorithms_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Harish Kumar\PycharmProjects\HelloWorld\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionary" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionary/DictionaryDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RearrangeArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructureAndAlgorithms_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Harish Kumar\PycharmProjects\HelloWorld\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/RearrangeArray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testConfigurationTemplate" type="PythonConfigurationType" factoryName="Python">
+      <module name="DataStructureAndAlgorithms_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Harish Kumar\PycharmProjects\HelloWorld\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloWorld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.testConfigurationTemplate" />
+      <item itemvalue="Python.DictionaryDemo" />
+      <item itemvalue="Python.2DArrayDemo" />
+      <item itemvalue="Python.ArrayRotation" />
+      <item itemvalue="Python.ArrayCyclicRotation" />
+      <item itemvalue="Python.RearrangeArray" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.RearrangeArray" />
+        <item itemvalue="Python.ArrayCyclicRotation" />
+        <item itemvalue="Python.ArrayRotation" />
+        <item itemvalue="Python.2DArrayDemo" />
+        <item itemvalue="Python.DictionaryDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="677c71d2-f0e2-4c5c-983a-4ff2a96e5953" name="Default Changelist" comment="" />
+      <created>1587803545722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587803545722</updated>
+    </task>
+    <task id="LOCAL-00001" summary="helloWorld commit">
+      <created>1587803670307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587803670307</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1587803908600</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587803908600</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <created>1588001530995</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588001530995</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <created>1588001576599</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588001576599</updated>
+    </task>
+    <task id="LOCAL-00005" summary="one line added">
+      <created>1588002485108</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588002485108</updated>
+    </task>
+    <task id="LOCAL-00006" summary="TreeDemo : first commit">
+      <created>1588247283470</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588247283470</updated>
+    </task>
+    <task id="LOCAL-00007" summary="TreeDemo : second commit">
+      <created>1588248343422</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588248343422</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Tree Traversal : Preorder: Initial commit">
+      <created>1588317362409</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588317362409</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Binary Tree">
+      <created>1588327125948</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1588327125948</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Binary Tree">
+      <created>1588355063125</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588355063125</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="helloWorld commit" />
+    <MESSAGE value="second commit" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="one line added" />
+    <MESSAGE value="TreeDemo : first commit" />
+    <MESSAGE value="TreeDemo : second commit" />
+    <MESSAGE value="Tree Traversal : Preorder: Initial commit" />
+    <MESSAGE value="Binary Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary Tree" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="0" key="#2DArrayDemo" timestamp="1588358938418">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="#2DArrayDemo/0.0.1366.728@0.0.1366.728" timestamp="1588358938418" />
+    <state x="392" y="0" key="#ArrayCyclicRotation" timestamp="1588395040723">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="#ArrayCyclicRotation/0.0.1366.728@0.0.1366.728" timestamp="1588395040723" />
+    <state x="392" y="0" key="#ArrayDemo" timestamp="1588328184140">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="#ArrayDemo/0.0.1366.728@0.0.1366.728" timestamp="1588328184140" />
+    <state x="392" y="0" key="#ArrayRotation" timestamp="1588393195168">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="#ArrayRotation/0.0.1366.728@0.0.1366.728" timestamp="1588393195168" />
+    <state x="392" y="0" key="#DictionaryDemo" timestamp="1588354656469">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="#DictionaryDemo/0.0.1366.728@0.0.1366.728" timestamp="1588354656469" />
+    <state x="392" y="0" key="#ListDemo" timestamp="1588351150753">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="#ListDemo/0.0.1366.728@0.0.1366.728" timestamp="1588351150753" />
+    <state x="392" y="0" key="#PreorderTraversal" timestamp="1588324808209">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="#PreorderTraversal/0.0.1366.728@0.0.1366.728" timestamp="1588324808209" />
+    <state x="392" y="0" key="#RearrangeArray" timestamp="1588403550076">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="#RearrangeArray/0.0.1366.728@0.0.1366.728" timestamp="1588403550076" />
+    <state x="392" y="0" key="#TreeDemo" timestamp="1588246582160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="#TreeDemo/0.0.1366.728@0.0.1366.728" timestamp="1588246582160" />
+    <state x="392" y="0" key="#TupleDemo" timestamp="1588352918832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="#TupleDemo/0.0.1366.728@0.0.1366.728" timestamp="1588352918832" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587803622164">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587803622164" />
+    <state x="457" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588246519305">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="457" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1588246519305" />
+    <state x="392" y="0" key="#helloWorld" timestamp="1588001473558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="#helloWorld/0.0.1366.728@0.0.1366.728" timestamp="1588001473558" />
+    <state width="622" height="466" key="DebuggerActiveHint" timestamp="1588326077471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="622" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1588326077471" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1588248079499">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1588248079499" />
+    <state x="550" y="119" key="EnvironmentVariablesDialog" timestamp="1587803619772">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="119" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587803619772" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1587804109710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587804109710" />
+    <state x="175" y="47" key="Git.Interactive.Rebase.Dialog" timestamp="1588355043380">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="47" key="Git.Interactive.Rebase.Dialog/0.0.1366.728@0.0.1366.728" timestamp="1588355043380" />
+    <state width="1345" height="164" key="GridCell.Tab.0.bottom" timestamp="1588404223152">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588404223152" />
+    <state width="1345" height="164" key="GridCell.Tab.0.center" timestamp="1588404223152">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588404223152" />
+    <state width="1345" height="164" key="GridCell.Tab.0.left" timestamp="1588404223152">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588404223152" />
+    <state width="1345" height="164" key="GridCell.Tab.0.right" timestamp="1588404223152">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588404223152" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1588403857071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588403857071" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1588403857071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588403857071" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1588403857071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588403857071" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1588403857071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588403857071" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1588404106203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588404106203" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1588355149842">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588355149842" />
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588002116069">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1588002116069" />
+    <state x="247" y="93" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1588326210133">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="247" y="93" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1588326210133" />
+    <state x="311" y="152" key="git4idea.merge.GitPullDialog" timestamp="1588248381548">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="311" y="152" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1588248381548" />
+    <state x="404" y="225" key="git4idea.rebase.GitRebaseDialog" timestamp="1588355038907">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="404" y="225" key="git4idea.rebase.GitRebaseDialog/0.0.1366.728@0.0.1366.728" timestamp="1588355038907" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/ArrayDemo.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

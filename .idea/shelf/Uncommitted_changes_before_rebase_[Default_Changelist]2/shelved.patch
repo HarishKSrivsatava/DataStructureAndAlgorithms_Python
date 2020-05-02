@@ -1,0 +1,203 @@
+Index: Array/ArrayRotation.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Array/ArrayRotation.py	(date 1588393938599)
++++ Array/ArrayRotation.py	(date 1588393938599)
+@@ -0,0 +1,26 @@
++# Using one variable temp
++
++def array_rotate(arr,d):
++    length = len(arr)
++    for i in range(d):
++        leftShiftByOne(arr,length)
++
++def leftShiftByOne(arr,length):
++    temp = arr[0]
++    for i in range(length-1):
++        arr[i] = arr[i+1]
++    arr[length - 1] = temp
++
++# Utility  function
++def _print(arr):
++    for i in range(len(arr)):
++        print(arr[i], end = " ")
++
++# Driver code
++arr = [1,2,3,4,5,6,7,8,9]
++_print(arr)
++print(" ")
++d = 3
++print("Shift by ", d)
++array_rotate(arr,d)
++_print(arr)
+\ No newline at end of file
+Index: Array/2DArrayDemo.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Array/2DArrayDemo.py	(date 1588359855153)
++++ Array/2DArrayDemo.py	(date 1588359855153)
+@@ -0,0 +1,30 @@
++from array import *
++
++# Access the elements
++T = [[11, 12, 5, 2], [15, 6,10], [10, 8, 12, 5], [12,15,8,6]]
++print(T[0]) #[11, 12, 5, 2]
++print(T[0][0]) #11
++print(T[1][1]) #6
++
++# print all the elements of 2D array
++for i in T:
++    for x in i:
++        print(x, end = " ")
++    print(" ")
++# Insertion
++T.insert(0,[2,7,9,78,6])
++for i in T:
++    for x in i:
++        print(x, end = " ")
++    print(" ")
++
++T1 = [[11, 12, 5, 2], [15, 6, 10], [10, 8, 12, 5], [12, 15, 8, 6]]
++for i in T1:
++    for x in i :
++        print(x, end = " ")
++    print(" ")
++T1[0,0] = 99 # Update one element at index (0,0)
++for i in T1:
++    for x in i :
++        print(x, end = " ")
++    print(" ")
+\ No newline at end of file
+Index: Array/RearrangeArray.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Array/RearrangeArray.py	(date 1588404320741)
++++ Array/RearrangeArray.py	(date 1588404320741)
+@@ -0,0 +1,49 @@
++"""Given an array of elements of length N, ranging from 0 to N – 1.
++All elements may not be present in the array. If element is not present then there will be -1 present
++in the array. Rearrange the array such that A[i] = i and if i is not present, display -1 at that place."""
++
++"""Input : arr = {-1, -1, 6, 1, 9, 3, 2, -1, 4, -1}
++Output : [-1, 1, 2, 3, 4, -1, 6, -1, -1, 9]
++
++Input : arr = {19, 7, 0, 3, 18, 15, 12, 6, 1, 8,
++              11, 10, 9, 5, 13, 16, 2, 14, 17, 4}
++Output : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 
++         11, 12, 13, 14, 15, 16, 17, 18, 19]"""
++
++"""Approach:
++1. Navigate the array.
++2. Check if a[i] = -1, if yes then ignore it.
++3. If a[i] != -1, Check if element a[i] is at its cor­rect posi­tion (i=A[i]). If yes then ignore it.
++4. If a[i] != -1 and ele­ment a[i] is not at its cor­rect posi­tion (i!=A[i]) then place it to its correct posi­tion, 
++but there are two conditions:
++
++Either A[i] is vacate, means A[i] = -1, then just put A[i] = i .
++OR A[i] is not vacate, means A[i] = x, then int y=x put A[i] = i. Now, we need to place y to its 
++correct place, so repeat from step 3."""
++
++def fix(arr, len):
++    for i in range(0,len):
++        if(A[i] != -1 and A[i] != i):
++            x = A[i]
++            # check this location in the array is not vacate
++            while(A[x] != -1 and A[x] != x): # this location niether not -1 nor having the correct value
++               y = A[x]
++               A[x] = x
++               x = y
++            A[x] = x
++        # check if while loop has not set correct value at A[i]
++        if(A[i] != i):
++            A[i] = -1
++
++def _print(arr):
++    for i in range(len(arr)):
++        print(arr[i] , end = " ")
++# Driver code
++A = [ -1, -1, 6, 1, 9, 3, 2, -1, 4, -1 ]
++_print(A)
++print(" ")
++fix(A, len(A))
++_print(A)
++
++""" Time complexity = O(n)
++    Space complextity = O(1) """
+\ No newline at end of file
+Index: Array/ArrayCyclicRotation.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Array/ArrayCyclicRotation.py	(date 1588396319834)
++++ Array/ArrayCyclicRotation.py	(date 1588396319834)
+@@ -0,0 +1,17 @@
++def _cyclic_rotation(arr):
++    n = len(arr)
++    x = arr[n - 1]
++    for i in range(n - 1, 0, -1):
++        arr[i] = arr[i - 1];
++    arr[0] = x;
++
++def _print(arr):
++    for i in range(len(arr)):
++        print(arr[i], end =" ")
++
++#Driver Code
++arr = [1,2,3,4,5,6]
++_print(arr)
++print(" ")
++_cyclic_rotation(arr)
++_print(arr)
+Index: Dictionary/DictionaryDemo.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>dict1 = {1:\"test\", 2:10}\r\nprint(dict1) #{1: 'test', 2: 10}\r\nprint(dict1[2]) #10\r\n#print(dict[3]) #TypeError: 'type' object is not subscriptable\r\n\r\nprint(dict1.key())
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Dictionary/DictionaryDemo.py	(revision b850b8837fe7df0e82e51b145b7ae371f20d28c5)
++++ Dictionary/DictionaryDemo.py	(date 1588358450407)
+@@ -1,6 +1,33 @@
+ dict1 = {1:"test", 2:10}
++
++# Access the elements
+ print(dict1) #{1: 'test', 2: 10}
+ print(dict1[2]) #10
+ #print(dict[3]) #TypeError: 'type' object is not subscriptable
+ 
+-print(dict1.key())
+\ No newline at end of file
++# Length of the dictionary
++print(len(dict1)) #2
++#print(dict1.key())
++
++myDict = {1:"James" , 2: "Bond"}
++print(myDict.values()) #dict_values(['James', 'Bond'])
++print(myDict.keys()) #dict_keys([1, 2])
++print(myDict.items()) #dict_items([(1, 'James'), (2, 'Bond')])
++print(myDict.get(1)) #James
++
++dict = {'Name': 'Zara', 'Age': 7, 'Class': 'First'}
++print(dict)
++del dict['Name']; # remove entry with key 'Name'
++print(dict) #{'Age': 7, 'Class': 'First'}
++dict.clear();     # remove all entries in dict
++print(dict) #{}
++del dict ;        # delete entire dictionary
++print(dict) #<class 'dict'>
++
++
++dict = {'Name': 'Zara', 'Age': 7, 'Name': 'Katheren'}
++print (dict['Name']) #Katheren
++
++dict2 = {['Name']: 'Zara', 'Age': 7}
++print(dict2['Name'])
++print ("dict2['Name']: ", dict2['Name'])
+\ No newline at end of file

@@ -20,11 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="677c71d2-f0e2-4c5c-983a-4ff2a96e5953" name="Default Changelist" comment="Binary Tree">
-      <change afterPath="$PROJECT_DIR$/Array/2DArrayDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/ArrayCyclicRotation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/ArrayRotation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/RearrangeArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionary/DictionaryDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary/DictionaryDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]2/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +59,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/helloWorld.py" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.RearrangeArray">
+  <component name="RunManager" selected="Python.Test">
     <configuration name="2DArrayDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAndAlgorithms_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,27 +123,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DictionaryDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataStructureAndAlgorithms_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Harish Kumar\PycharmProjects\HelloWorld\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionary" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionary/DictionaryDemo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="RearrangeArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAndAlgorithms_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,6 +136,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/RearrangeArray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructureAndAlgorithms_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Harish Kumar\PycharmProjects\HelloWorld\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/Test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,19 +188,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.testConfigurationTemplate" />
-      <item itemvalue="Python.DictionaryDemo" />
       <item itemvalue="Python.2DArrayDemo" />
       <item itemvalue="Python.ArrayRotation" />
       <item itemvalue="Python.ArrayCyclicRotation" />
       <item itemvalue="Python.RearrangeArray" />
+      <item itemvalue="Python.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Test" />
         <item itemvalue="Python.RearrangeArray" />
         <item itemvalue="Python.ArrayCyclicRotation" />
         <item itemvalue="Python.ArrayRotation" />
         <item itemvalue="Python.2DArrayDemo" />
-        <item itemvalue="Python.DictionaryDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -320,134 +323,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Binary Tree" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="392" y="0" key="#2DArrayDemo" timestamp="1588358938418">
+    <state x="392" y="0" key="#Test" timestamp="1597338505088">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="392" y="0" key="#2DArrayDemo/0.0.1366.728@0.0.1366.728" timestamp="1588358938418" />
-    <state x="392" y="0" key="#ArrayCyclicRotation" timestamp="1588395040723">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="392" y="0" key="#ArrayCyclicRotation/0.0.1366.728@0.0.1366.728" timestamp="1588395040723" />
-    <state x="392" y="0" key="#ArrayDemo" timestamp="1588328184140">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="392" y="0" key="#ArrayDemo/0.0.1366.728@0.0.1366.728" timestamp="1588328184140" />
-    <state x="392" y="0" key="#ArrayRotation" timestamp="1588393195168">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="392" y="0" key="#ArrayRotation/0.0.1366.728@0.0.1366.728" timestamp="1588393195168" />
-    <state x="392" y="0" key="#DictionaryDemo" timestamp="1588354656469">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="392" y="0" key="#DictionaryDemo/0.0.1366.728@0.0.1366.728" timestamp="1588354656469" />
-    <state x="392" y="0" key="#ListDemo" timestamp="1588351150753">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="392" y="0" key="#ListDemo/0.0.1366.728@0.0.1366.728" timestamp="1588351150753" />
-    <state x="392" y="0" key="#PreorderTraversal" timestamp="1588324808209">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="392" y="0" key="#PreorderTraversal/0.0.1366.728@0.0.1366.728" timestamp="1588324808209" />
-    <state x="392" y="0" key="#RearrangeArray" timestamp="1588403550076">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="392" y="0" key="#RearrangeArray/0.0.1366.728@0.0.1366.728" timestamp="1588403550076" />
-    <state x="392" y="0" key="#TreeDemo" timestamp="1588246582160">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="392" y="0" key="#TreeDemo/0.0.1366.728@0.0.1366.728" timestamp="1588246582160" />
-    <state x="392" y="0" key="#TupleDemo" timestamp="1588352918832">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="392" y="0" key="#TupleDemo/0.0.1366.728@0.0.1366.728" timestamp="1588352918832" />
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587803622164">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587803622164" />
-    <state x="457" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588246519305">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="457" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1588246519305" />
-    <state x="392" y="0" key="#helloWorld" timestamp="1588001473558">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="392" y="0" key="#helloWorld/0.0.1366.728@0.0.1366.728" timestamp="1588001473558" />
-    <state width="622" height="466" key="DebuggerActiveHint" timestamp="1588326077471">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="622" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1588326077471" />
-    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1588248079499">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1588248079499" />
-    <state x="550" y="119" key="EnvironmentVariablesDialog" timestamp="1587803619772">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="550" y="119" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587803619772" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1587804109710">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587804109710" />
-    <state x="175" y="47" key="Git.Interactive.Rebase.Dialog" timestamp="1588355043380">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="175" y="47" key="Git.Interactive.Rebase.Dialog/0.0.1366.728@0.0.1366.728" timestamp="1588355043380" />
-    <state width="1345" height="164" key="GridCell.Tab.0.bottom" timestamp="1588404223152">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588404223152" />
-    <state width="1345" height="164" key="GridCell.Tab.0.center" timestamp="1588404223152">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588404223152" />
-    <state width="1345" height="164" key="GridCell.Tab.0.left" timestamp="1588404223152">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588404223152" />
-    <state width="1345" height="164" key="GridCell.Tab.0.right" timestamp="1588404223152">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588404223152" />
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1588403857071">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588403857071" />
-    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1588403857071">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588403857071" />
-    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1588403857071">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588403857071" />
-    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1588403857071">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588403857071" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1588404106203">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588404106203" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1588355149842">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588355149842" />
-    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588002116069">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1588002116069" />
-    <state x="247" y="93" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1588326210133">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="247" y="93" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1588326210133" />
-    <state x="311" y="152" key="git4idea.merge.GitPullDialog" timestamp="1588248381548">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="311" y="152" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1588248381548" />
-    <state x="404" y="225" key="git4idea.rebase.GitRebaseDialog" timestamp="1588355038907">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="404" y="225" key="git4idea.rebase.GitRebaseDialog/0.0.1366.728@0.0.1366.728" timestamp="1588355038907" />
+    <state x="392" y="0" key="#Test/0.0.1366.728@0.0.1366.728" timestamp="1597338505088" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

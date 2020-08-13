@@ -16,17 +16,17 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="677c71d2-f0e2-4c5c-983a-4ff2a96e5953" name="Default Changelist" comment="Binary Tree">
-      <change afterPath="$PROJECT_DIR$/Tree/Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]2/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_2.xml" beforeDir="false" />
+    <list default="true" id="677c71d2-f0e2-4c5c-983a-4ff2a96e5953" name="Default Changelist" comment="Binary Tree Test file added">
+      <change afterPath="$PROJECT_DIR$/Tree/BinaryTreeTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/datastrucure" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -59,28 +64,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/helloWorld.py" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.Test">
-    <configuration name="2DArrayDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataStructureAndAlgorithms_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Harish Kumar\PycharmProjects\HelloWorld\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/2DArrayDemo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.BinaryTreeTest">
     <configuration name="ArrayCyclicRotation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAndAlgorithms_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,19 +86,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ArrayRotation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAndAlgorithms_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Harish Kumar\PycharmProjects\HelloWorld\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/ArrayRotation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/BinaryTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BinaryTreeTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructureAndAlgorithms_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/BinaryTreeTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,19 +193,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.testConfigurationTemplate" />
-      <item itemvalue="Python.2DArrayDemo" />
-      <item itemvalue="Python.ArrayRotation" />
+      <item itemvalue="Python.BinaryTree" />
+      <item itemvalue="Python.BinaryTreeTest" />
+      <item itemvalue="Python.Test" />
       <item itemvalue="Python.ArrayCyclicRotation" />
       <item itemvalue="Python.RearrangeArray" />
-      <item itemvalue="Python.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BinaryTreeTest" />
+        <item itemvalue="Python.BinaryTree" />
         <item itemvalue="Python.Test" />
         <item itemvalue="Python.RearrangeArray" />
         <item itemvalue="Python.ArrayCyclicRotation" />
-        <item itemvalue="Python.ArrayRotation" />
-        <item itemvalue="Python.2DArrayDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588355063125</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Revert &quot;Binary Tree Test file added&quot;&#10;&#10;This reverts commit d57cf7e0">
+      <created>1597340774473</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1597340774473</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -320,13 +332,23 @@
     <MESSAGE value="TreeDemo : second commit" />
     <MESSAGE value="Tree Traversal : Preorder: Initial commit" />
     <MESSAGE value="Binary Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Binary Tree" />
+    <MESSAGE value="Binary Tree Test file added" />
+    <MESSAGE value="Revert &quot;Binary Tree Test file added&quot;&#10;&#10;This reverts commit d57cf7e0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Binary Tree Test file added&quot;&#10;&#10;This reverts commit d57cf7e0" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="392" y="0" key="#Test" timestamp="1597338505088">
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1597340772682">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="392" y="0" key="#Test/0.0.1366.728@0.0.1366.728" timestamp="1597338505088" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597340772682" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1597340856585">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597340856585" />
+    <state x="319" y="152" key="git4idea.merge.GitPullDialog" timestamp="1597340617066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="319" y="152" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1597340617066" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -335,6 +357,11 @@
           <url>file://$PROJECT_DIR$/Array/ArrayDemo.py</url>
           <line>17</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tree/BinaryTreeTest.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

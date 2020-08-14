@@ -19,15 +19,14 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="677c71d2-f0e2-4c5c-983a-4ff2a96e5953" name="Default Changelist" comment="Binary Tree Test file added">
-      <change afterPath="$PROJECT_DIR$/Tree/BinaryTreeTest.py" afterDir="false" />
+    <list default="true" id="677c71d2-f0e2-4c5c-983a-4ff2a96e5953" name="Default Changelist" comment="New File added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/BinaryTreeTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/BinaryTreeTest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -297,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597340774473</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="New File added">
+      <created>1597340929818</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1597340929818</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -334,17 +340,34 @@
     <MESSAGE value="Binary Tree" />
     <MESSAGE value="Binary Tree Test file added" />
     <MESSAGE value="Revert &quot;Binary Tree Test file added&quot;&#10;&#10;This reverts commit d57cf7e0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Binary Tree Test file added&quot;&#10;&#10;This reverts commit d57cf7e0" />
+    <MESSAGE value="New File added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New File added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1597340772682">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597340772682" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1597340856585">
+    <state width="1345" height="234" key="GridCell.Tab.0.bottom" timestamp="1597340934297">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597340856585" />
+    <state width="1345" height="234" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597340934297" />
+    <state width="1345" height="234" key="GridCell.Tab.0.center" timestamp="1597340934297">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="234" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597340934297" />
+    <state width="1345" height="234" key="GridCell.Tab.0.left" timestamp="1597340934296">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="234" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597340934296" />
+    <state width="1345" height="234" key="GridCell.Tab.0.right" timestamp="1597340934297">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="234" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597340934297" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1597340964456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597340964456" />
     <state x="319" y="152" key="git4idea.merge.GitPullDialog" timestamp="1597340617066">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

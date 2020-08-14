@@ -28,9 +28,6 @@ class BinaryTreeTest:
             else:
                 self.data = data
 
-
-
-
 # Driver code
 root = BinaryTreeTest(1)
 root.insertNode(2)

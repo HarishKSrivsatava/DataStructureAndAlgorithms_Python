@@ -1,4 +1,7 @@
-dict1 = {1:"test", 2:10}
+dict1 = {
+            1:"test",
+            2:10
+        }
 
 # Access the elements
 print(dict1) #{1: 'test', 2: 10}

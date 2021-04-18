@@ -25,8 +25,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="677c71d2-f0e2-4c5c-983a-4ff2a96e5953" name="Default Changelist" comment="New File added">
+      <change afterPath="$PROJECT_DIR$/Graph/MemoryRepresentation/AdjacenyMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/MemoryRepresentation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/BinaryTreeTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/BinaryTreeTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary/DictionaryDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary/DictionaryDemo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +58,9 @@
     <option name="onto" value="d8b785de0968833ae253f15451aeb6e7101ff281" />
   </component>
   <component name="ProjectId" id="1b1dTzrQITP6KPjJDZ6PEMaZwBK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,29 +71,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/helloWorld.py" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.BinaryTreeTest">
-    <configuration name="ArrayCyclicRotation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataStructureAndAlgorithms_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Harish Kumar\PycharmProjects\HelloWorld\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/ArrayCyclicRotation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.AdjacenyMatrix (1)">
+    <configuration name="AdjacenyMatrix (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAndAlgorithms_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/MemoryRepresentation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/BinaryTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/MemoryRepresentation/AdjacenyMatrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BinaryTreeTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="AdjacenyMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAndAlgorithms_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/MemoryRepresentation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/BinaryTreeTest.py" />
+      <option name="SCRIPT_NAME" value="C:\Harish\Learning\DataStructureAndAlgorithms_Python\Graph\MemoryRepresentation\AdjacenyMatrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,19 +114,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RearrangeArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="AdjacenyMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAndAlgorithms_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Harish Kumar\PycharmProjects\HelloWorld\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/MemoryRepresentation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Harish\Learning\DataStructureAndAlgorithms_Python\Graph\MemoryRepresentation\AdjacenyMatrix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ArrayRotation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructureAndAlgorithms_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/RearrangeArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/ArrayRotation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,19 +156,61 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DictionaryDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAndAlgorithms_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Harish Kumar\PycharmProjects\HelloWorld\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionary" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionary/DictionaryDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructureAndAlgorithms_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/Test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="graph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructureAndAlgorithms_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/MemoryRepresentation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Harish\Learning\DataStructureAndAlgorithms_Python\Graph\MemoryRepresentation\graph.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,19 +242,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.testConfigurationTemplate" />
-      <item itemvalue="Python.BinaryTree" />
-      <item itemvalue="Python.BinaryTreeTest" />
-      <item itemvalue="Python.Test" />
-      <item itemvalue="Python.ArrayCyclicRotation" />
-      <item itemvalue="Python.RearrangeArray" />
+      <item itemvalue="Python.ArrayRotation" />
+      <item itemvalue="Python.DictionaryDemo" />
+      <item itemvalue="Python.Test1" />
+      <item itemvalue="Python.AdjacenyMatrix" />
+      <item itemvalue="Python.AdjacenyMatrix (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.BinaryTreeTest" />
-        <item itemvalue="Python.BinaryTree" />
-        <item itemvalue="Python.Test" />
-        <item itemvalue="Python.RearrangeArray" />
-        <item itemvalue="Python.ArrayCyclicRotation" />
+        <item itemvalue="Python.AdjacenyMatrix (1)" />
+        <item itemvalue="Python.AdjacenyMatrix" />
+        <item itemvalue="Python.AdjacenyMatrix" />
+        <item itemvalue="Python.Test1" />
+        <item itemvalue="Python.DictionaryDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -344,34 +394,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="New File added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1597340772682">
+    <state width="1345" height="231" key="GridCell.Tab.0.bottom" timestamp="1618720468077">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597340772682" />
-    <state width="1345" height="234" key="GridCell.Tab.0.bottom" timestamp="1597340934297">
+    <state width="1345" height="231" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1618720468077" />
+    <state width="1345" height="231" key="GridCell.Tab.0.center" timestamp="1618720468077">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="234" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597340934297" />
-    <state width="1345" height="234" key="GridCell.Tab.0.center" timestamp="1597340934297">
+    <state width="1345" height="231" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1618720468077" />
+    <state width="1345" height="231" key="GridCell.Tab.0.left" timestamp="1618720468076">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="234" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597340934297" />
-    <state width="1345" height="234" key="GridCell.Tab.0.left" timestamp="1597340934296">
+    <state width="1345" height="231" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1618720468076" />
+    <state width="1345" height="231" key="GridCell.Tab.0.right" timestamp="1618720468077">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="234" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597340934296" />
-    <state width="1345" height="234" key="GridCell.Tab.0.right" timestamp="1597340934297">
+    <state width="1345" height="231" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1618720468077" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1618718127933">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="234" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597340934297" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1597340964456">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597340964456" />
-    <state x="319" y="152" key="git4idea.merge.GitPullDialog" timestamp="1597340617066">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="319" y="152" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1597340617066" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1618718127933" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
